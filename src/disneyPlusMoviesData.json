@@ -1,0 +1,232 @@
+
+{ 
+
+    "movies": {
+        "1" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/49B92C046117E89BC9243A68EE277A3B30D551D4599F23C10BF0B8C1E90AEFB6/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/87F1DCF36049558159913ADFD18A800DE1121771540033EC3A7651B8FE154CEB/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "La jeune Riley emménage dans une nouvelle ville et ses émotions s'unissent afin de faciliter la trasition. Joie, Peur, Colère, Dégout et Tristesse collaborent, mais Joie et Tristesse se perdent.",
+            "subTitle": "2015 • 1h 35m • Récit initiatique, Famille, Animation",
+            "title": "Vice-Verse",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5C647DF3FFBFA343CFEA84AC715148F25F9E86F398B408010CC403E7654FB908/scale?width=1440&aspectRatio=1.78",
+            "type": "recommend"
+        },
+        "2" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4E9E81584305009D6385F6178D4B6930E97CD6EC4A3B53C818400DEF778FFA9A/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B983FF22BA64B6E19E0D3267280819B26758CFB765E8BED1099D11E320612953/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "Garfield est adopté par un méchant lord avide qui manigance de transformer son domaine en terrain de chasse.",
+            "subTitle": "2006 • 1h 19m • Famille, Comédie, Jeunesse",
+            "title": "Garfield",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/50B933E83609BEEFEDFA177A6D96DBFA7804C14F70A0B5AB314E892E65498ACF/scale?width=1440&aspectRatio=1.78",
+            "type": "new"
+        },
+        "3" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4F39B7E16726ECF419DD7C49E011DD95099AA20A962B0B10AA1881A70661CE45/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/706C68FF1CEA5A9C2AE0608892C2DF79E4AC1F0DDB4BFF7FE6DAFC36DAFC0286/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "Une mère chnoise attristée par le départ de son fils retrouve le plaisir de materner quand un de ses raviolies prend vie, mais elle se rend compte que rien ne reste petit et mignon éternellement.",
+            "subTitle": "2018 • 7m • Famille, Fantastique, Jeunesse, Animation",
+            "title": "Bao",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D7AEE1F05D10FC37C873176AAA26F777FC1B71E7A6563F36C6B1B497CAB1CEC2/scale?width=1440&aspectRatio=1.78",
+            "type": "recommend"
+        },
+        "4" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FA1548A6B82C9991B1D38DF251A388FEA2483904510FBC73E150F67F7BDE38C0/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0ECD36DD35658155915685271440833C29ED87E788CF8AE111AA6BCA6B939C37/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "Quand le bandit le plus recherché du royaume est pris en otage par Raiponce, une adolescente qui cherche à s'échapper de la tour où elle est captive, c'est le début d'une aventure effrénée.",
+            "subTitle": "2010 • 1h 40m • Famille, Fantastique, Animation, Action et Adventure, Comédie musical",
+            "title": "Raiponce",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F70235E3463A6F246EB462ED5379F9D41D6318E80098BD40900E7AFC1C7D932D/scale?width=1440&aspectRatio=1.78",
+            "type": "trending"
+        },
+        "5" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/56EEBB17CC25C9FE16E334C34EF96BF7D91EC9BA3B438F88FB24E1C2AE785E03/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E486A02FA7B60669E77958D4FAE567AA5C9C57344006E1D1ADFC080719545166/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals",
+            "description": "Les studios Pixar Animation vous propulsent depuis les rues de New York dans des dimensions cosmiques, en quête de réponses à de grande questions existentielles.",
+            "subTitle": "2020 • 1h 49m • Famille, Comédie, Fantastique, Animation, Musique",
+            "title": "Soul",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E837DDE901CD036DD87A00F2D63E2F2458FAA798E62BE91F973AECCEA313A67E/scale?width=1440&aspectRatio=1.78",
+            "type": "original"
+        },
+        "6" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/AAC4808815AE5721A6AAB372DD14B8CE2E7E9EFF3A27942EF2B6B45EBF4E65CB/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/501783804F435A386DBC4736F529A8EF664B1817CCB0B552E52D825B85B0A97B/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "Moana prend la mer pour sauver son peuple. Durant son voyage, elle rencontre le puissant demi-dieu Maui. Ensemble, ils embarquent dans une aventure rocambolesque créée par Walt Disney Animation Studios",
+            "subTitle": "2016 • 1h 47m • Famille, Fantastique, Animation, Action et Adventure, Comédie musicale",
+            "title": "Moana",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9562874BAB22B22A698368819B9EBF30FEB0291543552EB2416A5A61A73F63F4/scale?width=1440&aspectRatio=1.78",
+            "type": "trending"
+        },
+        "7" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B409C2A425D58C32D822EB633C7CAE3DC910DC2FC62D2B1807A0BB092C531E9A/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C0A883EAB54DDDC924018D08CF4555EE72B3E9A8C214BDADF29CB82B5E2275D7/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "Alors qu'Hélène est désignée pour redorer le blason des super-héros, Bob découvre la vie normale avec Violette, Flèche et Jack-Jack. Aidés de Frozone, ils affrontent un nouveau méchant",
+            "subTitle": "2018 • 1h 58m • Science Fiction, Famille, Animation, Action et Adventure, Super-héros",
+            "title": "Les Indestructibles 2",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2041CE26663867FC4EF20377B8625BD629E619452E23BCDB1AB259DD475C2EA1/scale?width=1440&aspectRatio=1.78",
+            "type": "recommend"
+        },
+        "8" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3A8F27225DC2CDADAB4BAA6B711F6E3441B5B59415433C17FDBBC3074B907421/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1C6E9F1080CB9F65480C3C1537D3724B84B311A8136E402ECEA1C04A8B7FA519/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+            "description": "Rejoingnez la réalisatrice Chloe Zhao et les acteurs du film Les Eternets alors qu'ils racontent leurs expériences pendant le tournage le plus ambitieux de Marvel Studios à ce jour. Découvrez comment les membres de l'équipe ont su s'imprégner de leur rôle, et comment cela a contribué à créer des relations qui s'étendent sur plus de 7000 ans entre les personnages.",
+            "subTitle": "2021 • 57 m • Documentaire",
+            "title": "Rasssemblement",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FD92164CC00182DFA1421AC0F17B788623DBD24E12412C761FA659A8637EA0E3/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "new"
+        },
+        "9" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2A509165105A09F9F533E2008B143BCF38D6A5859D0EBB40CCA388772005CD94/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A13BEC78ACF76FC91A94A1595A62A42CC26DFC6259332C74E061ADA379024E5C/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals",
+            "description": "Une jeune lapine se lance dans une aventure pour creuser le terrier de ses rêves sans savoir du tout comment s'y prendre. Plutôt que d'avouer son ignorance à ses voisins, elle s'enfonce de plus en plus profondément dans les difficultés. Après avoir touché le fond (du lit), elle découvre qu'il n'y a pas de honte à demander de l'aide.",
+            "subTitle": "2020 • 6m • Famille, Animation",
+            "title": "Mon Terrier",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/DD8BBA864E290FBC03A244A488FFC8DC8365FBF2F95A122B1D57BF3772D717FD/scale?width=1440&aspectRatio=1.78",
+            "type": "original"
+        },
+        "10" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/223DAE104BE1175F374C4AACAC0EB5B8B0DB9C49839AA2E10085533DDFE07A8E/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6EA416AD3B15FCC1BADC817A932A57FFF707556DB2233FFCB4CFEB7C8EEDE23C/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "La famille nucléaire favorite du monde entier dans une série historique récompensée par de multiples prix.",
+            "subTitle": "1989 - 2020 • 32 Saisons • Comédie, Animation",
+            "title": "The Simpsons",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/47A6FB38D95B3A5EF5583C9EED0B698ED2992CBA4AC7222DD3269DC92DFA03A6/scale?width=1440&aspectRatio=1.78",
+            "type": "trending"
+        },
+        "11" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D09813C4A4ACF352B75912BBB40B60342109FE11F3457432CEBF7814D608489B/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D996CC2741BDE27977FE05B817239F56936A63EB789EB7D43EF825824A53514E/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+            "description": "Situé sur la Riviera italienne, le long-métrage de Disney et Pixar Luca raconte l'été inoubliable d'un jeune garçon. Luca partage ses aventures avec son ami Alberto, mais ces bons moments sont menacés par un secret profondément enfoui: tous deux sont des monstres marins venus d'un autre monde sous la surface de l'eau.",
+            "subTitle": "2021 • 1h 41m • Récit initiatique, Famille, Fantastique, Animation, Amitié",
+            "title": "Luca",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3DBEF3579BA43A96D8E2D28AB37530B56DF9A1DBB3C7B23D86E1B614D53D8396/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "original"
+        },
+        "12" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/09A0617D43282F1A4FA1A97DF6159B4263A8DEB9679A007B61D5E5D6E5D0A2DD/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1E0501AFBAFCA1ABB5D31DBA7D1A913B2A35D70FD3DFD804939B71901577161D/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "Autrefois, humains et dragons vivaient en harmonie à Kumandra. Mais quand une force maléfique s'est abattue sur le royaume, les dragons se sont sacrifiés pour sauver l'humanité. Cinq cents ans plus tard, Raya, une guerrière solitaire, doit retrouver le légendaire dernier dragon pour repousser les forces du mal qui sont de retour et menacent une fois de plus son univers.",
+            "subTitle": "2021 • 1h 52m • Famille, Fantastique, Animation, Action et Adventure",
+            "title": "Raya et le dernier Dragon",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E7D8EFFDD30B2A0E205DDD9929207439B21E7595709769F2A23C50457664FFB2/scale?width=1440&aspectRatio=1.78",
+            "type": "original"
+        },
+        "13" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/09DAD6A5DAECB6BA9E329FFA896B18978FE4AD5540C070D7973EE53357DD4D24/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/01666FAA085FF29B709DB13975E563E5E047DAAFF7D8F331201CB73F3C30027E/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "Lorsque Bob Parr rend visite à la couturière Edna Mode pour qu'elle l'aide avec son bébé très énergique, cette dernière passe toute la nuit à concevoir un super-costume qui contiendra les pouvoirs apparemment sans limites de Jack-Jack.",
+            "subTitle": "2018 • 7m • Famille, Comédie, Animation, Super-héros",
+            "title": "Auntie EDNA",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A31BE6502DC7A3A01DAF58DF7E91AB6FF598A078C8FA88A1DB2D7B7E25439464/scale?width=1440&aspectRatio=1.78",
+            "type": "recommend"
+        },
+        "14" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/73E3B5114F4B87CFFBABF1961ECBFA2208BA744979319FE8339327E200D32006/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E9413A0B836EBFBC2C84D3B8BBBC61A229C64FFFA4554A4177D858144B7577EE/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "La saga Star Wars continue alors que de nouveaux héros et des légendes galactiques se lancent dans une aventure épique, découvrant les mystères de la Force et des révélations chocs du passé.",
+            "subTitle": "2017 • 2h 32m • Science Fiction, Action et Aventure",
+            "title": "Star Wars, les derniers Jedi, épisode VIII",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/248BC40F1AE8C6AB54A2919A7E1609D147685B3E227A7B3C63BDFEA1336FA77F/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "trending"
+        },
+        "15" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/456A711C19899C881600F6247705E5253EB18C2471D75E5281E1FF6ACB6D2FBA/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/341AE85B6C1423B9042B5F2E786645EE551B9D546C3D263B220A4727617FD2B8/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals",
+            "description": "A l'affiche de la nouvelle production Marvel Studios Falcon et le Soldat de l'Hiver, retrouvez Anthony Mackie dans le rôle de Sam Wilson alias Falcon, et Sebastian Stan dans celui de Bucky Barnes alias le Soldat de l'Hiver. Né à la fin de Avengers: Endgame, le duo se reforme pourr une aventure planétaire qui va mettre à l'épreuve leurs aptitudes...et leur patience.",
+            "subTitle": "2021 • 1 Saison• Science Fiction, Action et Adventure, Amitié",
+            "title": "Falcon et le Soldat de l'Hiver",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4A67A42FB16607DAE7E22266D3F00181965178ED1884047C2D982EE7D89D3554/scale?width=1440&aspectRatio=1.78",
+            "type": "new"
+        },
+        "16" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8F7043C8F8C26C56FA165C3C75A8E653832399E1E835AA253D0F6A7993BB0D7C/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E7F3E61B8EFC95892717124B333D04338E26616C0AE85A87C41107AD1D631E4E/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "Basé sur l'antihéros le moins conventionnel de l'univers Marvel, Deadpool raconte l'histoire des origines de Wade Wilson, un mercenaire qui traque l'homme qui a presque anéanti sa vie.",
+            "subTitle": "2016• 1h 49m • Comédie, Super-héros, Action et Aventure",
+            "title": "Deadpool",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A002B9AEE39EA5DA642930FFF5D194786E5F5528BDD347CCB30308DC0F18E638/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "trending"
+        },
+
+        "17" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B7CC26B9FD0DB8EDC82B7CA94005142AC6589DD40034E931CA93CB4752BAF4CC/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/565C6E2BE2F2256BE30C89F50392C9B8AAA71BE71CA3CCE3DC5371639D307DB5/badging?width=400&aspectRatio=1.78&format=jpeg&label=staroriginal",
+            "description": "Se déroulant durant les débuts turbulents d'Internet, cette série est basée sur l'incroyable histoire vraie de la sex tape de Pamela Anderson. Volée à leur domicile par un ouvrier mécontent, la vidéo passe du statut de curiosité clandestine à celui de sensation globale quand elle atterit sur le web en 1997. Une histoire d'amour, de scandale et de crime.",
+            "subTitle": "2022 • 1 Saison • Drame",
+            "title": "Pam & Tommy",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/73B79825F2088FB4A227334BD890672A3CA1C93465E6A5E4A22F439B57B55DD9/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "new"
+        },
+
+        "18" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4AC348C25911B6C52D15FE5165D87A850610DC97BA2CEF8F5F0AA62C75C16126/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/BC2BD3D0355C58B637CB6C5120D77996D7C0979AAB0C12B7A1E360EF18AA738F/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+            "description": "Le méchant lunatique Loki (Tom Hiddleston) reprend son rôle de dieu de la malice dans Loki, la nouvelle série des studios Marvel qui se déroule après Avengers : Endgame. Kate Herron en est la réalisatrice et Michael Waldron le principal scénariste.",
+            "subTitle": "2021 • 1 Saison • Science-Fiction, Super-héros, Action et Aventure",
+            "title": "Loki",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1DE4EB87970708BEF8CA80E8F0326AEBC9A6019B7E974C1C7A181C12A3D4CA9A/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "recommend"
+        },
+
+        "19" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6548230CF307C2FC1201963367161187EC593E88FBA138BB03011550DBA35E11/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4C123159C993227B099A26AFAB346496145E0BE6180BF9F3C5B697D98E0F8D27/badging?width=400&aspectRatio=NaN&format=jpeg&label=disneyplusoriginal",
+            "description": "Kate est prête à renoncer à devenir une superhéroïne, suite à une dispute avec Clint. Clint, lui, rongé par la culpabilité, s'apprête à affronter la Mafia des Survêtes et à assumer son passé. Mais tout est bouleversé quand Kate fait une surprenante découverte.",
+            "subTitle": "2021 • 1 Saison • Science-Fiction, Super-héros, Action et Aventure",
+            "title": "Hawkeye",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/BC59E8EE95346169414CF19EF45F8407FD943882B59E97CCA9853212028AAC58/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "recommend"
+        },
+
+        "20" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/95F222F48639605F5932D265B76D6045C2F2646BEE36C424BE70BB951BD13A61/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D18AC4EC780ED0DF780E3576972A8E076DC549CE69A24CACB22D7BA6A7F6BBBB/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginall",
+            "description": "Boba Fett établit son pouvoir.",
+            "subTitle": "2022 • 1 Saison • Science-Fiction, Action et Aventure",
+            "title": "Le livre de Boba Fett",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A0DB748D5466A06BEE9B69145B4D4067C2BB3492BBA5C260567AF59DBFE60E82/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "new"
+        },
+
+        "21" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A7DD327CD8501326F8D0CD6A74B20787E5D394ECD42FD5DBFD220A0E27A1E4C6/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C5183527CB0BAFD51B672870963D2DC9236D58A43A5BF698D5217A3DEB90D232/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+            "description": "Plongez dans les profondeurs et observez la vie aquatique du Monde de Nemo et de Dory.",
+            "subTitle": "2020 • 3h 1m • Famille, Animation",
+            "title": "Sous l'Océan avec Dory ",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A7B5C69D3D539168B9EB3F0D8B1B695C82B67B82EF0AD1089BACE07582C6BE44/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "original"
+        },
+
+        "22" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/DF837CF84066FB1D32E70B44448871758DC3A16EFB7552881B350A57C09EEBFD/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/59691DC8C5C047DCB2767BE4C7E0C4E70EC186A86225160AE7CB28D49B0B6E0D/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "Les cinéastes visionnaires James Cameron et Robert Rodriguez, signent Alite : Battle Angel, une aventure épique sur l'espoir et l'émancipation.",
+            "subTitle": "2018• 2h 3m • Science-Fiction, Action et Aventure",
+            "title": "Alita : Battle Angel ",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/14430A62A4DE179738F98359BABB36DE2163939C47F302F2453B84EE5F85E910/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "new"
+        },
+
+        "23" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/509BE627D29682EB65709288AEA8937D1D6F0395C5BCDA3D48AFF71F5382314C/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1AE4A14D9DD3BFCCAB1AFE6C80E6B66DA94BC5018076E29BA25F7C41F787364B/badging?width=400&aspectRatio=1.78&format=jpeg&label=staroriginal",
+            "description": "Oliver utilise ses talents de metteur en scène de théâtre pour analyser méthodiquement l'affaire. Charles et Mabel interrogent une personne obsédée par les chats.",
+            "subTitle": "2021 • 1 Saison • Mystère, Drame, Comédie, Policier",
+            "title": " Only Murders in the Building ",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A7B5C69D3D539168B9EB3F0D8B1B695C82B67B82EF0AD1089BACE07582C6BE44/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "trending"
+        },
+
+        "24" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5A96EA744C17DD5086E1D8EC39721EA9F9D44333A9968A12C87CAAC1A4A71F63/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CD363C2D16A4F5F5AA60D9618BA9AD03879F1F6EA9D1B31132BFA9EBF44A2A99/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "Dans cette extraordinaire aventure Disney Pixar, un garçon qui rêve de devenir un grand musicien entreprend un voyage pour découvrir les mystères liés à ses ancêtres.",
+            "subTitle": "2017 • 1h 44m • Famille, Animation, Musique, Fantastique",
+            "title": "Coco ",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E819076505C3BD072F4B5F122AC89309B83F23960AF3F9E6A133D6494BD0D74A/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "original"
+        }
+
+    
+    }
+}
