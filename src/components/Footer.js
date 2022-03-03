@@ -35,7 +35,7 @@ height:20vh;
 display: block;
 
 @media (max-width: 1400px) {
-    height: 40vh;
+    height: 60vh;
    }
 `
 

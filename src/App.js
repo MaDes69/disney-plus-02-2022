@@ -21,7 +21,7 @@ function App() {
           <Route exact path="/home" element = {<Home/> } />
           <Route exact path="/detail/:id" element = {<Detail/>} />
         </Routes>
-        {/* <Footer />  */}
+        <Footer /> 
       </Router>   
     </div>
   );
