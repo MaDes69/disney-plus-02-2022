@@ -552,7 +552,7 @@ padding-left: 40px;
 `;
 
 const CTALogoOne = styled.img`
-margin-top:100px;
+margin-top:50px;
 max-width: 150px;
 min-height: 100px;
 display: block;
@@ -600,7 +600,8 @@ const Description3 = styled.p`
 `;
 
 const BgImage = styled.div`
-  height: 40%;
+  height: 110vh;
+
   background-position: top;
   background-size: cover;
   background-repeat: no-repeat;
